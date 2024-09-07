@@ -3,7 +3,7 @@ run-as: root
 
 env:                               #add this below variables env details in a aws enviorments 
   variables:
-    AWS_DEFAULT_REGION: us-east-1 # checkfor specific region
+    AWS_DEFAULT_REGION: ap-south-1 # checkfor specific region
     AWS_ACCOUNT_ID: 343480787041   # account id
     IMAGE_REPO_NAME: test-project # image name
     IMAGE_TAG: latest
